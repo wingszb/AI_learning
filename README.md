@@ -1,3 +1,3 @@
 # Final Project: Train a Quadcopter How to Fly
-By deterministic policy gradient coded method coded in Tensorflow /t
+By deterministic policy gradient coded method coded in Tensorflow \t
 Original paper:https://arxiv.org/pdf/1509.02971.pdf
