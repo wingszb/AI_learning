@@ -1,4 +1,5 @@
-# Final Reinforcement learning Project: Train a Quadcopter How to Fly
+# Final Reinforcement learning Project: 
+#Train a Quadcopter How to Fly
 By deep deterministic policy gradient method coded in Tensorflow 
 
 Original paper:https://arxiv.org/pdf/1509.02971.pdf
